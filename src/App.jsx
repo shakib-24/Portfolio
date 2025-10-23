@@ -165,7 +165,7 @@ function App() {
     <section className='text-gray-700 border-t border-gray-200'>
       <div className='container px-5 py-24 mx-auto flex flex-wrap'>
         <div className='mb-10 lg:mb-0 w-full lg:w-1/2 flex justify-center'>
-          <img src="./img/pc1.jpg" alt="" className='rounded'/>
+          <img src="./img/pc1.png" alt="" className='rounded'/>
         </div>
         <div className='lg:pl-12 lg:py-6 w-full lg:w-1/2'>
           <h1 className='text-2xl sm:text-3xl font-medium text-gray-900 mb-10 text-center lg:text-left'>MY Skills</h1>
